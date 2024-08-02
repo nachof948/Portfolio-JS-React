@@ -6,7 +6,7 @@ import portfolioImg2 from '../../../src/assets/Miportfolio-img/Portfolio-2.png';
 import portfolioImg3 from '../../../src/assets/Miportfolio-img/Portfolio-3.png';
 import portfolioImg4 from '../../../src/assets/Miportfolio-img/Portfolio-4.png';
 import portfolioImg5 from '../../../src/assets/Miportfolio-img/Portfolio-5.png';
-import portfolioImg6 from '../../../src/assets/Miportfolio-img/Portfolio-6.png';
+import portfolioImg13 from '../../../src/assets/Miportfolio-img/Portfolio-13.png';
 import portfolioImg7 from '../../../src/assets/Miportfolio-img/Portfolio-7.png';
 import portfolioImg8 from '../../../src/assets/Miportfolio-img/Portfolio-8.png';
 import portfolioImg9 from '../../../src/assets/Miportfolio-img/Portfolio-9.png';
@@ -50,7 +50,13 @@ const Miportfolio = () => {
       link: 'https://pronostico-ya.vercel.app/',
       title: 'Aplicación del clima',
       descripcion:'(React-Express-Node.js-Mongo DB)'
-    }/* ,
+    },
+    {
+      image: portfolioImg13,
+      link: 'https://nacfer-estate-app.vercel.app/',
+      title: 'Aplicación Bienes Raices',
+      descripcion:'(React-Express-Node.js-Mongo DB)'
+    },/* ,
     {
       image: portfolioImg2,
       link: 'https://nachof948.github.io/Tic-tac-toe/',
